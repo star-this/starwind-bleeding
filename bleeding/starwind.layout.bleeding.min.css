@@ -1,0 +1,1 @@
+@layer starwind.layout{:where(sw-bleeding){margin-inline:calc(-1 * var(--sw-bleeding-space,var(--sw-space-s-m,1rem)));padding-inline:var(--sw-bleeding-space,var(--sw-space-s-m,1rem));display:block}}
